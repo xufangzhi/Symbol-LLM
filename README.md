@@ -1,7 +1,7 @@
 # Symbol-LLM
 
 <p align="center">
-<img src="./logo.png" width="250" height="250">
+<img src="./logo.png" width="200" height="200" alt="Symbol-LLM">
 </p>
 
 It is the project page for the paper: ``Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Models``
