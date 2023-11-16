@@ -1,7 +1,8 @@
 # Symbol-LLM
 
-![](logo.png)
-
+<p align="center">
+<img src="./logo.png" width="250" height="250">
+</p>
 
 The project of Symbol-LLM is currently in progress.
 
