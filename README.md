@@ -26,18 +26,12 @@ Repo for "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Symbol-LLM:
 - [2023/11/15] We make the Symbol-LLM paper public !
 
 
+## 💡 Abstract
 
-It is the project page for the paper: ``Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Models``
-
-Paper Link: [Symbol-LLM](https://arxiv.org/pdf/2311.09278v1.pdf)
-
-Project Page: [Symbol-LLM-Page](https://xufangzhi.github.io/symbol-llm-page/)
-
+Although Large Language Models (LLMs) demonstrate remarkable ability in processing and generating human-like text, they do have limitations when it comes to comprehending and expressing world knowledge that extends beyond the boundaries of natural language(e.g., chemical molecular formula). Injecting a collection of symbolic data directly into the training of LLMs can be problematic, as it disregards the synergies among different symbolic families and overlooks the need for a balanced mixture of natural and symbolic data. In this work, we tackle these challenges from both a data and framework perspective and introduce Symbol-LLM series models. First, we curated a data collection consisting of 34 tasks and incorporating approximately 20 distinct symbolic families, intending to capture the interrelations and foster synergies between symbols. Then, a two-stage tuning framework succeeds in injecting symbolic knowledge without loss of the generality ability. Extensive experiments on both symbol- and NL-centric tasks demonstrate the balanced and superior performances of Symbol-LLM series models.
 
 ## Note
-The work is still in progress.
-
-We will release Symbol-LLM series models (7B / 13B) and the text-to-symbol task collections.
+This work is still under review. We will open-source the model weights, symbolic collection and the code.
 
 
 ## Citation
