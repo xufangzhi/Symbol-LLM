@@ -14,6 +14,19 @@ Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Mod
   
 </p>
 
+
+<p align="center">
+Repo for "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Models</a>"
+</p>
+
+
+## 🔥 News
+
+- [2023/10/08] 🔥🔥🔥 Model weights of Symbol-LLM are released at [🤗 HuggingFace](https://huggingface.co/Symbol-LLM/Symbol-LLM-7B-Instruct)!
+- [2023/11/15] We make the Symbol-LLM paper public !
+
+
+
 It is the project page for the paper: ``Symbol-LLM: Towards Foundational Symbol-centric Interface for Large Language Models``
 
 Paper Link: [Symbol-LLM](https://arxiv.org/pdf/2311.09278v1.pdf)
