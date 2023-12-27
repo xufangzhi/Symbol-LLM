@@ -22,6 +22,7 @@ Repo for "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Symbol-LLM:
 
 ## 🔥 News
 
+- [2023/12/27] We are expected to release the Chat-version of Symbol-LLM in January.
 - [2023/10/08] 🔥🔥🔥 Model weights of Symbol-LLM are released at [🤗 HuggingFace](https://huggingface.co/Symbol-LLM/Symbol-LLM-7B-Instruct)!
 - [2023/11/15] We make the Symbol-LLM paper public !
 
