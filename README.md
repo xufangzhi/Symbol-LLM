@@ -44,7 +44,7 @@ model = AutoModelForCausalLM.from_pretrained("Symbol-LLM/Symbol-LLM-7B-Instruct"
 ```
 
 
-## Note
+## 📒 Note
 This work is still under review. We will open-source the model weights, symbolic collection and the code.
 
 
