@@ -54,19 +54,27 @@ from datasets import load_dataset
 dataset = load_dataset("Symbol-LLM/Symbolic_Collection")
 ```
 
+## 📃 Deployed As A WebUI
+The implementation of WebUI is modified from [text-generation-webui](https://github.com/oobabooga/text-generation-webui). The running script is as follows:
+
+```bash
+cd demo-webui/
+
+python server.py --model <model_name> --chat --api --share --gpu-memory 40 40 --compute_dtype float32 --bf16
+```
+
+
 ## 📒 Note
 This work is still under review. We will open-source the model weights, symbolic collection and the code.
 
 
-## Repo Structure
+## 🔧 Repo Structure
 This repo contains the training scripts and the demo deployment. Detailed structure is as follow:
 ```
 .
 ├── README.md
-├── demo
-│   ├── model
-│   ├── xxx
 ├── logo.png
+├── demo-webui
 ```
 
 ## Citation
