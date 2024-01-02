@@ -59,7 +59,7 @@ This work is still under review. We will open-source the model weights, symbolic
 
 
 ## Repo Structure
-
+This repo contains the training scripts and the demo deployment. Detailed structure is as follow:
 ```
 .
 ├── README.md
