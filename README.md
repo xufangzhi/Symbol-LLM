@@ -58,6 +58,17 @@ dataset = load_dataset("Symbol-LLM/Symbolic_Collection")
 This work is still under review. We will open-source the model weights, symbolic collection and the code.
 
 
+## Repo Structure
+
+```
+.
+├── README.md
+├── demo
+│   ├── model
+│   ├── xxx
+├── logo.png
+```
+
 ## Citation
 If you find it helpful, please kindly cite the paper.
 ```
