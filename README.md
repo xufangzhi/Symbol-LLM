@@ -59,7 +59,7 @@ The implementation of WebUI is modified from [text-generation-webui](https://git
 
 ```bash
 cd demo-webui/
-python server.py --model <model_name> --chat --api --share --gpu-memory 40 40 --compute_dtype float32 --bf16
+python server.py --model <model_name> --api --share --gpu-memory 40 40 --compute_dtype float32 --bf16
 ```
 
 
