@@ -24,7 +24,7 @@ Repo for "<a href="https://arxiv.org/abs/2311.09278" target="_blank">Symbol-LLM:
 ## 🔥 News
 
 - [2024/05/16] 🔥🔥🔥 Symbol-LLM is accepted by ACL 2024 (main conference) !
-- [2023/12/28] 🔥🔥🔥 We upload a part of the Symbolic collection (~88K, 10% of the whole collection) on [🤗 HuggingFace](https://huggingface.co/Symbol-LLM/Symbol-LLM-7B-Instruct)! The whole collection is expected to release upon the acceptance of the paper.
+- [2023/12/28] 🔥🔥🔥 We release Symbolic collection (~880K) on [🤗 HuggingFace](https://huggingface.co/Symbol-LLM/Symbol-LLM-7B-Instruct)! Download and Try it !
 - [2023/10/08] 🔥🔥🔥 Model weights of Symbol-LLM are released at [🤗 HuggingFace](https://huggingface.co/datasets/Symbol-LLM/Symbolic_Collection)!
 - [2023/11/15] We make the Symbol-LLM paper public !
 
